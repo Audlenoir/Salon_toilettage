@@ -1,0 +1,67 @@
+/***** CSS BOOSTRAP *****/
+ 
+
+
+
+/***** CSS Perso *****/
+
+
+/***** HEADER *****/
+.img_header{
+  width: 100%;
+  margin-bottom: 50px;
+  
+}
+
+.btn_deco{
+  font-size: 15px;
+}
+
+/***** Inscription *****/
+
+
+
+
+
+
+/***** Page soins *****/
+
+.maCard{
+  padding-top: 80px;
+}
+
+#img_soins{
+  width: 197px;
+  height: 150px;
+}
+
+.price{
+  vertical-align: bottom;
+}
+
+.lien_soins, a{
+  color:white;
+}
+
+/***** PROFIL*****/
+
+ul, li{
+  list-style-type: none;
+}
+
+
+
+
+/***** FOOTER *****/
+#footer{
+
+  margin-left:10px;
+  margin-right: 10px;
+  
+
+}
+
+.monFooter{
+  margin-top: 40px;
+  font-style: italic;
+}
